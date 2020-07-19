@@ -1,0 +1,16 @@
+
+body {background-color: rosybrown;
+}
+
+h1 { font-family: "Sofia";
+     color: white;}
+h2 { font-family: 'Amatic SC';}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: white;
+    background-color: rosybrown;
+    border-width: 5px;
+    width: 5%;
+}
